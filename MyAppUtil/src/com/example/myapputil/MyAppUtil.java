@@ -9,6 +9,7 @@ import android.provider.ContactsContract;
 
 public class MyAppUtil {
 	MyAppUtil my;
+	//私有化构造方法
 	private MyAppUtil() {
 		super();
 	}
